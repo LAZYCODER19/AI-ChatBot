@@ -21,8 +21,7 @@ A modern, responsive chat interface for the Gemini AI model, built with React, T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/gemini-chat.git
-cd gemini-chat
+git clone https://github.com/LAZYCODER19/AI-ChatBot
 ```
 
 2. Install dependencies:
